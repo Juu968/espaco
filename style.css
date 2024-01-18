@@ -1,0 +1,59 @@
+.titulo{
+    color: white;
+    text-align: center;
+}
+.background{
+    background-color: rgb(30, 7, 84);
+}
+.caixa1{
+    border: 3px solid #ddd;
+    height: 350px;
+    width: 200px ;
+    color: white;
+}
+.caixa2{
+    border: 3px solid #ddd;
+    height: 350px;
+    width: 200px ;
+    color: white;
+}
+.caixa3{
+    border: 3px solid #ddd;
+    height: 350px;
+    width: 200px ;
+    color: white;
+}
+.caixas{
+    display:flex;
+    padding-left: 595px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+     text-align: center;
+     gap: 50px;
+}
+.passado{
+width: 150px ;
+height: 150px ;
+}
+.estrela{
+    width: 150px ;
+    height: 150px ;
+}
+.tabela{
+    width: 150px ;
+    height: 150px ;
+}
+.imagempequena{
+    width: 10px;
+    height: 600px;
+}
+#yt{
+    display:flex;
+    justify-content: center;
+    display:none;
+}
+.botao{
+    display:flex;
+    justify-content: center;
+align-items: center;
+}
